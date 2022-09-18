@@ -10,7 +10,7 @@ Projeto construído do evento Next Level Week da Rocketseat
 
 - HTML
 - CSS
-Git e Github
+- Git e Github
 
 ## Contato
-
+jerllan.sistemas2018@gmail.com
