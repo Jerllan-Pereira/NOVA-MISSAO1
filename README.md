@@ -4,7 +4,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-Clique aqui para acessar](https://jerllan-pereira.github.io/NOVA-MISSAO1/)
+[Clique aqui para acessar](https://jerllan-pereira.github.io/NOVA-MISSAO1/)
 
 ##Tecnologia🚀
 
